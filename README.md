@@ -1,17 +1,34 @@
 # minicatalog_app
 
-A new Flutter project.
+Bu proje, kullanıcıların ürünleri listeleyebileceği, favorilerine ekleyebileceği ve sepet yönetimi yapabileceği bir mobil katalog uygulamasıdır.
+ Özellikler
+Ürün Kataloğu: Ürünlerin grid yapısında modern bir arayüzle listelenmesi.
 
-## Getting Started
+Favoriler Sistemi: Provider ile yönetilen, ürünleri favorilere ekleme ve çıkarma özelliği.
 
-This project is a starting point for a Flutter application.
+Alışveriş Sepeti: Sepete ürün ekleme, miktar güncelleme ve toplam tutar hesaplama.
 
-A few resources to get you started if this is your first Flutter project:
+Filtreleme ve Sıralama: Kategori bazlı filtreleme ve fiyata göre sıralama.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ürün Detay Sayfası: Ürün özelliklerinin ve görsellerinin detaylı görünümü.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Kullanılan Teknolojiler
+Framework: Flutter
+Dil: Dart
+Depoyu klonlayın:
+
+Bash
+git clone https://github.com/buyukogluomer/flutter_ecommerce_app.git
+Bağımlılıkları yükleyin:
+
+Bash
+flutter pub get
+Uygulamayı çalıştırın:
+
+Bash
+flutter run
+
+
+
+
 "# flutter_ecommerce_app" 
